@@ -21,7 +21,8 @@ The fastest configuration, C4, achieved an **8.589-second collision-free lap**, 
 
 The recommended default configuration prioritizes reliability and completed all seven tested runs without collisions or stalls.
 
-**Demonstration video:** [Insert unlisted YouTube link]
+**Demonstration video:** 
+https://www.youtube.com/watch?v=UhO5QIuMNVc
 
 ## Controller Implementation
 
@@ -113,7 +114,7 @@ For a complete explanation of the implementation, including:
 - Failed experiments and hairpin reliability analysis
 - Testing, verification, and reproducibility
 
-See **[WALL_FOLLOW_READ_ME.md](WALL_FOLLOW_READ_ME.md)**.
+See **[Detailed Wall-Following Documentation](autodrive_devkit/WALL_FOLLOW_README.md)**.
 
 ---
 
