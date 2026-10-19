@@ -1,0 +1,9 @@
+**/build/
+**/install/
+**/log/
+**/data/
+**/__pycache__/
+**/.pytest_cache/
+*.pyc
+*.db3
+*.mcap
